@@ -16,7 +16,7 @@ This project is a **Dynamic Blog CRM** designed to manage and publish blogs effi
 ## ⚡ Installation & Setup
  Clone the repository:
    ```bash
-   git clone <https://github.com/chandanpradhan029/blog_crm.git>
+   git clone https://github.com/chandanpradhan029/blog_crm.git
    ```
 
 ## 🛠 Usage
