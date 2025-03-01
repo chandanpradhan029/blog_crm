@@ -21,7 +21,7 @@ This project is a **Dynamic Blog CRM** designed to manage and publish blogs effi
 
 ## 🛠 Usage
 - Navigate to the CRM dashboard to **add or manage blog posts**.
-- Edit blog details, including **content, date, and SEO settings**.
+- Edit blog details, including **content, date, image and SEO**.
 - Track blog performance using **built-in analytics**.
 
 ## 🖥️ Technologies Used
