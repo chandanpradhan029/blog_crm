@@ -1,7 +1,7 @@
-# 🚀 Dynamic Blog CRM
+# 🚀 Dynamic Blog CMS
 
 ## 📌 Overview
-This project is a **Dynamic Blog CRM** designed to manage and publish blogs efficiently. It allows users to add, edit, and track blog posts with key features for SEO optimization and content management. This project has been successfully integrated into **25+ client websites**, providing seamless blog management and enhancing their content strategy.
+This project is a **Dynamic Blog CMS** designed to manage and publish blogs efficiently. It allows users to add, edit, and track blog posts with key features for SEO optimization and content management. This project has been successfully integrated into **25+ client websites**, providing seamless blog management and enhancing their content strategy.
 
 ## ✨ Features
 - 📝 **Dynamic Blog Posting**: Add blog posts with content or directly paste from Word. While adding blogs, there is an **editor option** to select HTML tags like `h1` to `h3`, `p` (paragraph), bullet and numbered lists, **bold, italic**, images, and many more formatting options.
